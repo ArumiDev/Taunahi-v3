@@ -5,7 +5,7 @@
 ## 🌾Farming scripts🌾
 ![2024-11-30_14 10 40](https://cdn.discordapp.com/attachments/1218571580230340798/1223184079097167972/2024-03-29_14.10.40.png?ex=673eec72&is=673d9af2&hm=c706dd2bd6ea29a0f4de158d6e62d7133eb27f50d1ea388fbc21d3b141a6449f&)
 ## ⚔️Combat scripts⚔️
-![2024-11-30_14 11 07](https://cdn.discordapp.com/attachments/1218571580230340798/1223184079512670290/2024-03-29_14.11.07.png?ex=673eec72&is=673d9af2&hm=3a1f2aa4ee8fbeb2c46a737eceafec916def5d6a7026af743deb3ef891850beb&)
+![2024-11-30_14 11 07](https://cdn.discordapp.com/attachments/1218571580230340798/1223184079512670290/2024-03-29_14.11.07.png?ex=67462cb2&is=6744db32&hm=6f7938c7028d03050c356c8db1af370659a62806d9a2f8047ba82fe9186935da&)
 ## 🪓Foraging scripts🪓
 ![2024-11-30_14 11 12](https://cdn.discordapp.com/attachments/1218571580230340798/1223184079948873728/2024-03-29_14.11.12.png?ex=673eec72&is=673d9af2&hm=60fbdf0a6f33ed11b6d72c5cb1916aca6a8776f24bcec1dc38723ef5eb2ab93a&)
 ## 🎣Fishing scripts🎣
